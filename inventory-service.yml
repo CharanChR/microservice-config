@@ -3,4 +3,4 @@ server:
 
 spring:
   application:
-    name: INVENTORY-SERVICE
+    name: inventory-service
