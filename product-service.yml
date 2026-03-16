@@ -6,4 +6,4 @@ spring:
     name: PRODUCT-SERVICE
 
 product:
-  message: Hello from Config Server
+  message: Hello update from Config Server
